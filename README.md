@@ -28,5 +28,6 @@ DB_CONNECTION=slqite
 - ```php artisan migrate:fresh --seed```
 
 ## Tailwind (dans un second terminal)
+
 1. ```npm install```
 2. ```npm run watch```
