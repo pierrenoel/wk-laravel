@@ -1,4 +1,4 @@
-# Installer le projet sur votre machine
+# Installing the project on your machine
 
 - ```git clone git@github.com:pierrenoel/wk-laravel.git```
 - ```composer install```
