@@ -27,7 +27,7 @@ DB_CONNECTION=slqite
 ## Migrate the database and seed 
 - ```php artisan migrate:fresh --seed```
 
-## Tailwind (dans un second terminal)
+## Tailwind
 
 1. ```npm install```
 2. ```npm run watch```
