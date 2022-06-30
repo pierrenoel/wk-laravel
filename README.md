@@ -1,7 +1,7 @@
 # Installer le projet sur votre machine
 
-1. ```git clone git@github.com:pierrenoel/wk-laravel.git```
-2.```composer install```
+- ```git clone git@github.com:pierrenoel/wk-laravel.git```
+- ```composer install```
 
 # Database
 1. ```touch database/database.sqlite```
