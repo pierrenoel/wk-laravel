@@ -1,6 +1,6 @@
 # Installer le projet sur votre machine
 
-1. ```git clone git@github.com:pierrenoel/wk-laravel.git``
+1. ```git clone git@github.com:pierrenoel/wk-laravel.git```
 2.```composer install```
 
 # Database
@@ -25,7 +25,7 @@ DB_CONNECTION=slqite
 4. ```php artisan config:clear```
 
 ## Migrate the database and seed 
-- ```php artisan migrate:fresh --seed```
+```php artisan migrate:fresh --seed```
 
 ## Tailwind
 
